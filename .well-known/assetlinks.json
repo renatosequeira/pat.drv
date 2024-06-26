@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alticemdm.patintertest",
+      "sha256_cert_fingerprints": [
+        "0C:4D:F5:99:BD:09:63:72:49:A9:38:55:AE:EE:0A:C3:7E:37:83:4E:BE:25:EC:20:3C:EA:1A:F3:C7:20:91:D0"
+      ]
+    }
+  }
+]
